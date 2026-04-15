@@ -19,7 +19,7 @@ The goal of the exercise was to practice:
 
 ## 🎯 Business Approach
 
-Look at the data from a business point of view, identifying the KPIs that are going to be used is an essential part of the project. The most important KPIs, which are displayed at the top of the main dashboard, are:
+Taking a look at the data from a business point of view, identifying the KPIs that are going to be used is an essential part of the project. The most important KPIs, which are displayed at the top of the main dashboard, are:
 
 * Revenue
 * Profit
