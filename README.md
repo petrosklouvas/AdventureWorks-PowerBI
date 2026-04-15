@@ -4,7 +4,7 @@
 
 This project analyzes the sales performance of a bike shop over a 3-year span, with a detailed analysis of different products, the product categories they belong to, and sales across different regions using an interactive Power BI dashboard.
 
----
+--
 
 ## 📚 Learning Context
 
