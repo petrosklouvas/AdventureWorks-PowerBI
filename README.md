@@ -13,17 +13,17 @@ The goal of the exercise was to practice:
 - data modeling
 - building interactivity into dashboards
 
+---
 
 ## 🎯 Business Problem
 
-Businesses often struggle to quickly identify which products, regions, and time periods drive revenue and profitability.
-
 This project aims to answer key questions such as:
 
+* Which product is returned the most?
 * Which regions generate the highest revenue?
-* Which product categories contribute the most profit?
-* How do sales trends evolve over time?
-* Are there seasonal patterns affecting performance?
+* How does a possible price adjustment affect a product's profit?
+* How do sales trend over time?
+* Which customer drives the most revenue?
 
 ---
 
