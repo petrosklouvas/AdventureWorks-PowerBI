@@ -13,7 +13,6 @@ The goal of the exercise was to practice:
 - data modeling
 - building interactivity into dashboards
 
----
 
 ## 🎯 Business Problem
 
