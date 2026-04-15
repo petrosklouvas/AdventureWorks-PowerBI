@@ -17,6 +17,12 @@ The goal of the exercise was to practice:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](images/Screenshot_1.png)
+
+---
+
 ## 🎯 Business Approach
 
 Taking a look at the data from a business point of view, identifying the KPIs that are going to be used is an essential part of the project. The most important KPIs, which are displayed at the top of the main dashboard, are:
@@ -101,12 +107,6 @@ Profit Margin = DIVIDE([Total Profit], [Total Sales])
 ```
 
 These measures allow dynamic aggregation across filters and visuals.
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](images/Screenshot_1.png)
 
 ---
 
