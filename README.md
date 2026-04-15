@@ -1,10 +1,19 @@
-# 📊 Adventure Works Dashboard (Power BI)
+# 📊 Adventure Works Report (Power BI)
 
 ## 🧭 Project Overview
 
-This project analyzes sales performance across different regions, product categories, and time periods using an interactive Power BI dashboard.
+This project analyzes the sales performance of a bike shop over a 3-year span, with a detailed analysis of different products, the product categories they belong to, and sales across different regions using an interactive Power BI dashboard.
 
-The objective is to transform raw sales data into **actionable business insights** through data modeling, visualization, and interactive analytics.
+---
+
+## 📚 Learning Context
+
+This project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy.
+
+The goal of the exercise was to practice:
+- ETL processes
+- data modeling
+- building interactivity into dashboards
 
 ---
 
@@ -23,7 +32,9 @@ This project aims to answer key questions such as:
 
 ## 📁 Dataset
 
-**Source:** Public dataset / simulated business data
+**Source** 
+
+The dataset used in this project was provided in the course. It is based on the "Adventure Works" dataset, which is a free and publicly available dataset.
 
 **Dataset Structure**
 
@@ -119,44 +130,3 @@ Some insights identified from the analysis:
 * The **West region consistently generates the highest revenue**.
 * **Technology products contribute the largest share of profit**.
 * Certain regions show **high revenue but relatively low profit margins**, suggesting pricing or cost issues.
-
----
-
-## 🗂️ Repository Structure
-
-project-folder
-│
-├── dashboard.pbix
-├── data/
-│   └── sales_data.csv
-├── images/
-│   └── dashboard_preview.png
-└── README.md
-
----
-
-## ▶️ How to Use
-
-1. Download the `.pbix` file.
-2. Open it with **Power BI Desktop**.
-3. If necessary, reconnect the dataset located in the `data` folder.
-
----
-
-## 🚀 Future Improvements
-
-Potential extensions for this project include:
-
-* Adding **customer segmentation analysis**
-* Implementing **sales forecasting models**
-* Incorporating additional datasets for deeper analysis
-* Enhancing dashboard interactivity
-
----
-
-## 👤 Author
-
-**[Your Name]**
-Data Analyst
-
-If you found this project interesting, feel free to explore the repository or connect with me.
