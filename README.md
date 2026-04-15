@@ -97,7 +97,7 @@ These measures allow dynamic aggregation across filters and visuals.
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](images/Screenshot_1.png)
 
 ---
 
