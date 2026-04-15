@@ -17,9 +17,16 @@ The goal of the exercise was to practice:
 
 ---
 
-## 🎯 Business Problem
+## 🎯 Business Approach
 
-This project aims to answer key questions such as:
+Look at the data from a business point of view, identifying the KPIs that are going to be used is an essential part of the project. The most important KPIs, which are displayed at the top of the main dashboard, are:
+
+* Revenue
+* Profit
+* Orders
+* Return Rate
+
+This project also aims to answer key questions, such as:
 
 * Which product is returned the most?
 * Which regions generate the highest revenue?
