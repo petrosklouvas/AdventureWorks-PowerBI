@@ -19,7 +19,7 @@ The goal of the exercise was to practice:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/Screenshot_1.png)
+![Dashboard Screenshot](images/Screenshot_1 - Exec Dashboard.png)
 
 ---
 
