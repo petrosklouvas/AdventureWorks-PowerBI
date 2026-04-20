@@ -56,38 +56,9 @@ This project also aims to answer key questions, such as:
 
 ---
 
-## 📁 Dataset
-
-**Source** 
+## 📁 Dataset Source
 
 The dataset used in this project was provided in the course. It is based on the "Adventure Works" dataset, which is a free and publicly available dataset.
-
-**Dataset Structure**
-
-The dataset contains transaction-level sales data including:
-
-| Column           | Description                 |
-| ---------------- | --------------------------- |
-| Order Date       | Date of the transaction     |
-| Region           | Geographic sales region     |
-| Product Category | Product classification      |
-| Sales            | Total revenue generated     |
-| Profit           | Profit from the transaction |
-| Quantity         | Number of items sold        |
-
----
-
-## 🧹 Data Cleaning & Preparation
-
-Before building the dashboard, several preprocessing steps were performed:
-
-* Removed duplicate records
-* Handled missing values
-* Standardized date formats
-* Created calculated columns for time-based analysis (Year, Quarter, Month)
-* Ensured consistent category naming
-
-These steps ensured **data accuracy and reliable insights**.
 
 ---
 
