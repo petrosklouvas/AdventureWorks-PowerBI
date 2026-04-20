@@ -8,7 +8,7 @@ This project analyzes the sales performance of a bike shop over a 3-year span, w
 
 ## 📚 Learning Context
 
-This project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy.
+This Power BI project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy.
 
 The goal of the exercise was to practice:
 - ETL processes
@@ -19,7 +19,21 @@ The goal of the exercise was to practice:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/Screenshot_1-Exec_Dashboard.png)
+### Exec Dashboard
+
+![Exec Dashboard Screenshot](images/Screenshot_1-Exec_Dashboard.png)
+
+### Map
+
+![Map Screenshot](images/Screenshot_2-Map.png)
+
+### Product Detail
+
+![Product Detail Screenshot](images/Screenshot_3-Product_Detail.png)
+
+### Customer Detail
+
+![Customer Detail Screenshot](images/Screenshot_4-Customer_Detail.png)
 
 ---
 
@@ -79,18 +93,23 @@ These steps ensured **data accuracy and reliable insights**.
 
 ## 🧩 Data Model
 
-A structured data model was implemented in Power BI to optimize analysis.
+A structured data model was implemented in Power BI to optimize analysis. The data model of this project consists of 2 smaller ones, since the dataset consists of 2 fact tables. The data models use the Star Schema approach.
 
 Key components:
 
-* Fact table: **Sales Transactions**
-* Dimension tables:
+* Fact tables: **Sales Data**, **Returns Data**
+* Dimension tables (Lookup tables):
 
-  * Date
-  * Product Category
-  * Region
+  * Territory
+  * Calendar
+  * Product
+  * Customer
+  * Product Subcategories
+  * Product Categories
 
-Relationships were created to support **time-based and categorical analysis**.
+Relationships between the fact and dimension tables were created, in order to support **time-based and categorical analysis**.
+
+Through the data analysis, some extra tables have been created and added to the final data model, such as a **Measure Table** and a **Model Measures** table. The first one organizes all measures created in folders and the latter explains their expression with a brief description, respectively.
 
 ---
 
