@@ -8,9 +8,9 @@ This project analyzes the sales performance of a bike shop over a 3-year span, w
 
 ## 📚 Learning Context
 
-This Power BI project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy.
+This Power BI project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy, during Oct-Nov/2025.
 
-The goal of the exercise was to practice:
+The goal of the project was to learn more about Power BI features, as well as to practice:
 - ETL processes
 - data modeling
 - building interactivity into dashboards
@@ -123,7 +123,7 @@ The dashboards include:
 
 Some insights identified from the analysis:
 
-* Sales peak during **Q4**, indicating strong seasonal demand.
-* The **West region consistently generates the highest revenue**.
-* **Technology products contribute the largest share of profit**.
-* Certain regions show **high revenue but relatively low profit margins**, suggesting pricing or cost issues.
+* The most ordered product type was **Tires and Tubes**, while the most returned **Shorts**.
+* The **United States** has the most orders of all regions.
+* **Customers with a high income make the least amount of orders**.
+* **Among customers in management roles, mr. Jordan Turner drove the most revenue**.
