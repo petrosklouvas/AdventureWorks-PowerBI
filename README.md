@@ -39,14 +39,7 @@ The goal of the exercise was to practice:
 
 ## 🎯 Business Approach
 
-Taking a look at the data from a business point of view, identifying the KPIs that are going to be used is an essential part of the project. The most important KPIs, which are displayed at the top of the main dashboard, are:
-
-* Revenue
-* Profit
-* Orders
-* Return Rate
-
-This project also aims to answer key questions, such as:
+Taking a look at the data from a business point of view, this project also aims to answer key questions, such as:
 
 * Which product is returned the most?
 * Which regions generate the highest revenue?
@@ -86,14 +79,26 @@ Through the data analysis, some extra tables have been created and added to the 
 
 ## 🧮 Key Measures (DAX)
 
-Several calculated measures were created using DAX:
+Identifying KPIs that we can make the most out of this dataset is an essential part of the project. The most important KPIs, which are also displayed at the top of the main ("Exec") dashboard, are:
+
+* Revenue
+* Profit
+* Orders
+* Return Rate
+
+Those KPIs were calculated using DAX functions in Power BI:
 
 ```DAX
-Total Sales = SUM(Sales[Sales])
+Total Revenue = SUMX(
+    'Sales Data',
+    'Sales Data'[OrderQuantity] * RELATED('Product Lookup'[ProductPrice])
+)
 
-Total Profit = SUM(Sales[Profit])
+Total Profit = [Total Revenue] - [Total Cost]
 
-Profit Margin = DIVIDE([Total Profit], [Total Sales])
+Total Orders = DISTINCTCOUNT('Sales Data'[OrderNumber])
+
+Return Rate = DIVIDE([Quantity Returned], [Quantity Sold], "No Sales")
 ```
 
 These measures allow dynamic aggregation across filters and visuals.
