@@ -105,21 +105,17 @@ These measures allow dynamic aggregation across filters and visuals.
 
 ---
 
-## ✨ Dashboard Features
+## ✨ Dashboards Features
 
-The interactive dashboard includes:
+The dashboards include:
 
-* 📈 **Sales trend analysis over time**
-* 🌍 **Regional performance comparison**
-* 📦 **Product category breakdown**
-* 📊 **KPI indicators for sales and profit**
-* 🎛️ **Interactive slicers and filters**
-
-Users can dynamically explore data by:
-
-* Region
-* Product category
-* Time period
+* **Revenue trend analysis over time**
+* **Product category tooltip with key measures**
+* **Product drill through option**
+* **Regional performance comparison on orders**
+* **Product price adjustment profit gain**
+* **Interactive slicers and filters**
+* **Left sidebar menu for easier navigation across the report**
 
 ---
 
