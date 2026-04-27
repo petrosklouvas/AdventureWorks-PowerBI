@@ -73,7 +73,10 @@ Key components:
 
 Relationships between the fact and dimension tables were created, in order to support **time-based and categorical analysis**.
 
-Through the data analysis, some extra tables have been created and added to the final data model, such as a **Measure Table** and a **Model Measures** table. The first one organizes all measures created in folders and the latter explains their expression with a brief description, respectively.
+Over the course of the project some extra tables have been created, such as:
+  * **Measure Table**: This table keeps all measures organized in folders, reducing the time it takes to look for a measure.
+  * **Time Intelligence**: This calculation group simplifies the measure management of time intelligence- related measures, allowing for a scalable feature to facilitate its use in visuals.
+  * **Measure Selector** and **Customer Metric Selection**: These selectors allow for a better UI/UX across visuals.
 
 ---
 
