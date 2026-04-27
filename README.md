@@ -4,11 +4,11 @@
 
 This project analyzes the sales performance of a bike shop over a 3-year span, with a detailed analysis of different products, the product categories they belong to, and sales across different regions using an interactive Power BI dashboard.
 
+It was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy, provided by Maven Analytics, during Oct-Nov/2025.
+
 ---
 
 ## 📚 Learning Context
-
-This Power BI project was developed as part of the "Microsoft Power BI Desktop for Business Intelligence" course on Udemy, during Oct-Nov/2025.
 
 The goal of the project was to learn more about Power BI features, as well as to practice:
 - ETL processes
