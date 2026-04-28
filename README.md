@@ -1,3 +1,5 @@
+![Logo Screenshot](images/AdventureWorks_Logo.png)
+
 # 📊 Adventure Works Report (Power BI)
 
 ## 🧭 Project Overview
