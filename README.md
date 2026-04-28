@@ -1,4 +1,6 @@
-![Logo Screenshot](images/AdventureWorks_Logo.png)
+<p align="center">
+  <img src="images/AdventureWorks_Logo.png" alt="Logo Screenshot" width="400">
+</p>
 
 # 📊 Adventure Works Report (Power BI)
 
