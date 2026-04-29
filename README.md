@@ -14,10 +14,18 @@ It was developed as part of the "Microsoft Power BI Desktop for Business Intelli
 
 ## 📚 Learning Context
 
-The goal of the project was to learn more about Power BI features, as well as to practice:
-- ETL processes
-- data modeling
-- building interactivity into dashboards
+While I already had a foundational understanding of Power BI, this project allowed me to significantly deepen my knowledge and apply more advanced concepts in a real analytical scenario.
+
+Through this project I practiced and improved skills such as:
+
+• Data cleaning and preparation  
+• Building a structured data model  
+• Creating relationships between tables  
+• Writing DAX measures for business metrics  
+• Designing interactive dashboards  
+• Applying data storytelling principles to communicate insights
+
+This project represents an important step in my progression from basic Power BI usage toward building more structured and insight-driven analytical dashboards.
 
 ---
 
