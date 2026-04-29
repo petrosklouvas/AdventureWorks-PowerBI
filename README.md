@@ -29,23 +29,9 @@ This project represents an important step in my progression from basic Power BI 
 
 ---
 
-## 🖼️ Dashboard Preview
+## 📁 Dataset Source
 
-### Exec Dashboard
-
-![Exec Dashboard Screenshot](images/Screenshot_1-Exec_Dashboard.png)
-
-### Map
-
-![Map Screenshot](images/Screenshot_2-Map.png)
-
-### Product Detail
-
-![Product Detail Screenshot](images/Screenshot_3-Product_Detail.png)
-
-### Customer Detail
-
-![Customer Detail Screenshot](images/Screenshot_4-Customer_Detail.png)
+The dataset used in this project was provided in the course. It is based on the "Adventure Works" dataset, which is a free and publicly available dataset.
 
 ---
 
@@ -58,12 +44,6 @@ Taking a look at the data from a business point of view, this project also aims 
 * How does a possible price adjustment affect a product's profit?
 * How do sales trend over time?
 * Which customer drives the most revenue?
-
----
-
-## 📁 Dataset Source
-
-The dataset used in this project was provided in the course. It is based on the "Adventure Works" dataset, which is a free and publicly available dataset.
 
 ---
 
@@ -117,6 +97,26 @@ Return Rate = DIVIDE([Quantity Returned], [Quantity Sold], "No Sales")
 ```
 
 These measures allow dynamic aggregation across filters and visuals.
+
+---
+
+## 🖼️ Dashboard Preview
+
+### Exec Dashboard
+
+![Exec Dashboard Screenshot](images/Screenshot_1-Exec_Dashboard.png)
+
+### Map
+
+![Map Screenshot](images/Screenshot_2-Map.png)
+
+### Product Detail
+
+![Product Detail Screenshot](images/Screenshot_3-Product_Detail.png)
+
+### Customer Detail
+
+![Customer Detail Screenshot](images/Screenshot_4-Customer_Detail.png)
 
 ---
 
